@@ -24,3 +24,4 @@ C:\projects\job4j_design\logs\debug.txt
 C:\projects\job4j_design\path\paths\path.txt
 C:\projects\job4j_design\src\main\java\ru\job4j\io\files\file1.txt
 C:\projects\job4j_design\target\surefire-reports\ru.job4j.iterator.ArrayItTest.txt
+
